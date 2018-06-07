@@ -1,0 +1,9 @@
+{
+"name": "Lake's Six",
+"start": "Dan Lake",
+rewards: [],
+"steps" : ["Convince Dan Lake to talk to you about the warehouse",
+{"Figure out a way into the warehouse": ["Option 1: Bribe","Option 2: Tunnel in",
+"Option 3: Go in through the roof", "Option 4: Brute force", "Option 5: Distract the guards"]},
+"Roll based on chosen option","Escape with the loot"]
+}
