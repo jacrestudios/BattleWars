@@ -23,7 +23,7 @@
 {
 "name": "Good Juju",
 "start": "Az Abogo",
-"rewards": ["Potion"],
+"rewards": ["Voodoo Potion"],
 "steps" : ["Talk to Az Abogo for work","Bring Az Abogo a tiger claw","Bring Az Abogo snake venom",
-          "Bring Az Abogo wasp wings", "Bring Az Abogo a plant of your choice","Accept potion from Az Abogo"]
+          "Bring Az Abogo wasp wings", "Bring Az Abogo a plant of your choice","Accept voodoo potion from Az Abogo"]
 }
