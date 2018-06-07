@@ -26,4 +26,52 @@
 "rewards": ["Voodoo Potion"],
 "steps" : ["Talk to Az Abogo for work","Bring Az Abogo a tiger claw","Bring Az Abogo snake venom",
           "Bring Az Abogo wasp wings", "Bring Az Abogo a plant of your choice","Accept voodoo potion from Az Abogo"]
-}
+},
+{
+"name": "Rare Specimens",
+"start": "Lia Amakiir",
+"rewards": [],
+"steps" : [""]
+},
+{
+"name": "Smell of Hard Work",
+"start": "Mozley Blueblush",
+"rewards": [],
+"steps" :[]
+},
+{
+"name": "Jungle Love",
+"start": "Aaron Greentree",
+"rewards": [],
+"steps" :[]
+},
+{
+"name": "Raiders of the Cursed Temple",
+"start": "Shane Seascruff",
+"rewards": [],
+"steps" : []
+},
+{
+"name": "Praise the Sun",
+"start": "Kravi Yergentil",
+"rewards": [],
+"steps" : []
+},
+{
+"name": "Aye, Ye Scruvy Dogs",
+"start": "Swift Jack",
+"rewards": [],
+"steps" :[]
+},
+{
+"name": "Special Forces",
+"start": "Trade Governor Recruiter",
+"rewards": [],
+"steps" :[]
+},
+{
+"name": "Ore Gone",
+"start": "John Smith",
+"rewards": [],
+"steps" :[]
+},
