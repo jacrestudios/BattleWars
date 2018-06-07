@@ -1,4 +1,10 @@
 {
+"name": "",
+"start": "",
+"rewards": [],
+"steps" :[]
+},
+{
 "name": "License to Thrill",
 "start": "Customs House Bureaucrat",
 "rewards": ["Explorer's Permit"],
@@ -10,7 +16,14 @@
 "start": "Dan Lake",
 "rewards": [],
 "steps" : ["Convince Dan Lake to talk to you about the warehouse",
-{"Figure out a way into the warehouse": ["Option 1: Bribe","Option 2: Tunnel in",
-"Option 3: Go in through the roof", "Option 4: Brute force", "Option 5: Distract the guards"]},
-"Roll based on chosen option","Escape with the loot"]
+           {"Figure out a way into the warehouse": ["Option 1: Bribe","Option 2: Tunnel in",
+                                                    "Option 3: Go in through the roof", "Option 4: Brute force", "Option 5: Distract the guards"]},
+           "Roll based on chosen option","Escape with the loot"]
+},
+{
+"name": "Good Juju",
+"start": "Az Abogo",
+"rewards": ["Potion"],
+"steps" : ["Talk to Az Abogo for work","Bring Az Abogo a tiger claw","Bring Az Abogo snake venom",
+          "Bring Az Abogo wasp wings", "Bring Az Abogo a plant of your choice","Accept potion from Az Abogo"]
 }
