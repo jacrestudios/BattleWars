@@ -1,0 +1,24 @@
+Goal: Destroy the city in each of your opponent's zones
+
+3 "Lines" (Rows)
+5 "Zones" (Columns) per Side
+Line closest to player is "City Line"
+Next closest is the "Support Line"
+And the furthest is the "Front Line"
+Those on your side will be noted as "friendly"
+Those on your opponent's will be noted as "enemy"
+
+Placement Key Words
+directly - one space from 
+in front of - in a line further than and in same Zone
+behind - in a line closer than and in same Zone
+adjacent - in the same Line only
+surrounding - next to in the same Line and in same Zone
+
+Three Phases
+Intel Phase-Draw Cards
+Production Phase-Finish Production, Start New Productions
+Activation Phase-Move, Fight and other Abilities
+
+
+
