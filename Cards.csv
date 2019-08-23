@@ -1,0 +1,60 @@
+Name, Faction, Type, Class, Production, Strength, Rules
+Militia, Basic, Unit, Infantry, 0, 1, ,
+Militant, Basic, Unit, Infantry, 1, 1, Infiltrate 1
+Soldier, Basic, Unit, Infantry, 1, 2, ,
+Special Forces, Basic, Unit, Infantry, 2, 3 , Scavenger 1
+Sniper, Basic, Unit, Infantry, 2, 1, Ranged 1; Stopping Power 3
+Tankhunter, Basic, Unit, Infantry, 2, 2, AP 2
+Scout, Basic, Unit, Infantry, 1, 1, Blitz
+Officer, Basic, Unit, Infantry, 2, 1, Morale 2
+Saboteur, Basic, Unit, Infantry, 2, 2, Suppress 3
+Engineer, Basic, Unit, Infantry, 1, 1, This unit can reinforce Vehicles for double this unit's Strength
+Guerilla, Basic, Unit, Infantry, 2, 2, Infiltrate 2
+Hijacker, Basic, Unit, Infantry, 1, 1, AP 3; If this unit defeats a Vehicle instead of removing it take control of it and reinforce it with this unit
+Honor Guard, Unit, Basic, Infantry, 3, 3, Morale 1
+Mortar, Basic, Unit, Infantry, 2, 3, Ranged 2
+Medic, Basic, Unit, Infantry, 1, 1, This unit can reinforce Infantry for double this unit's Strength
+Technical, Basic, Unit, Vehicle, 1, 1, Blitz
+Jeep, Basic, Unit, Vehicle, 2, 2, Blitz; Infiltrate 1
+Humvee, Basic, Unit, Vehicle, 3, 3, Blitz; Stopping Power 1
+APC, Basic, Unit, Vehicle, 3, 3, This unit can reinforce Infantry
+Tank, Basic, Unit, Vehicle, 4, 5, AP 1
+Tank Destroyer, Basic, Unit, Vehicle, 3, 2, AP 4
+Helicopter, Basic, Unit, Vehicle, 3, 3, Blitz; AP 1; Stopping Power 1
+Artillery, Basic, Unit, Vehicle, 3, 4, Ranged 2
+Howitzer, Basic, Unit, Vehicle, 5, 6, Ranged 3
+Tank v2, Basic, Unit, Vehicle, 5, 10, ,
+AP Rounds, Basic, Upgrade, Weapon, 1, , Unit gains AP 1
+Hollow Points, Basic, Upgrade, Weapon, 1, , Unit gains Stopping Power 1
+Armor Plating, Basic, Upgrade, Armor, 1, , Vehicle gains Bulwark 2
+Body Armor, Basic, Upgrade, Armor, 2, , Infantry ignores Stopping Power when defending
+Mechanized, Basic, Upgrade, Training, 2, , Infantry gains Blitz;  Infantry changes class to Vehicle
+Explosive Shells, Basic, Upgrade, Weapon, 3, , Ranged Unit's attacks also hit directly adjacent targets
+Suicide Vest, Basic, Upgrade, Weapon, 0, , If this Infantry dies it deals an additional 2 Strength
+Higher Caliber, Basic, Upgrade, Weapon, 2, , Unit gains +3 Strength when attacking
+Decoy, Basic, Upgrade, Training, 1, , If this Infantry dies reduce it to 1 Strength instead then remove this upgrade
+Panzerfaust, Basic, Upgrade, Weapon, 2, , Infantry gains AP 3
+Grenades, Basic, Upgrade, Weapons, 1, , Infantry gains Ranged 1; Stopping Power 2;  Remove this upgrade after attacking
+Command Radio, Basic, Upgrade, Training, 1, , Unit gains Morale 1
+Industrialization, Basic, Upgrade, Training, 5, , City provides an additional Production point
+Turrets, Basic, Upgrade, Weapon, 1, , City gains Bulwark 2
+Flak Cannons, Basic, Upgrade, Weapon, 3, , City gains Ranged 1
+Turbo Cannon, Basic, Upgrade, Weapon, 8, , City gains Ranged 3; Assault 4
+Mounted MGs, Basic, Upgrade, Weapon, 1, , Vehicle gains Stopping Power 2
+Smokescreen, Basic, Upgrade, Weapon, 1, , Vehicle gains Suppress 2; Remove this upgrade after being attacked or attacking
+Resourceful, Basic, Upgrade, Training, 2, , Unit gains Scavenger 2
+Reactive Plating, Basic, Upgrade, Training, 3, , Vehicle ignores AP when defending;  Remove this upgrade after being attacked with AP
+Scrap Collecting, Basic, Strategy, Production, 3, , If a Vehicle is destroyed add a Production point to the city in the same Zone
+Elite Training, Basic, Strategy, Battle, 4, , Infantry get Assault 1 and Bulwark 1
+Jungle Fighting, Basic, Strategy, Terrain, 3, , All Vehicles lose Blitz while in your Lines
+Hostile Conditions, Basic, Strategy, Terrain, 2, , Enemy units that Infiltrate into your Lines loses 1 Strength
+Gather Intel, Basic, Tactic, Intel, , , Draw 2 Cards
+Arm the People, Basic, Tactic, Intel, , , Search for 2 Upgrades for Infantry only
+Doomsday Device, Basic, Tactic, Intel, , , Destroy one of your cities to destroy ALL units within your Lines
+Hasty Retreat, Basic, Tactic, Battle, , , When attacked you may make one move directly adjacent or behind;  This does not apply against attackers with Blitz
+Frenzied, Basic, Tactic, Battle, , , If attacking a unit that destroyed a friendly unit last turn gain Assault 2
+
+
+
+
+
