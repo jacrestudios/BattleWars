@@ -1,0 +1,4 @@
+What needs to be put up for rapid development?
+-A way to quickly populate card text
+-A way for cards to be positioned on a playmat
+-A way to track card stats
