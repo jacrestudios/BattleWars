@@ -29,6 +29,7 @@ Armored X: This units substracts X from each source of damage during each battle
 Mechanized X: This unit recieves X additional activations
 Camo: This unit comes into play face down.  It can't be attacked until its revealed.  A unit is revealed when it attacks another unit, uses an ability, or an opponent uses an activation to reveal it.
 
+All Vehicles have Mechanized 1 as default.
 
 Ways to keep things from snowballing:
 -Extra card draw for destroyed cities?
