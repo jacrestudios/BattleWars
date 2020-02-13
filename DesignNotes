@@ -8,17 +8,30 @@ Doman - Relies on using indirect, ranged, synergystic strategies (Ranged, Morale
 Jesud - Relies on using cheap, massed, battle-advantaged strategies (AP, Stopping Power, Infiltrate) (Weak to Polsis as they can stop the horde)
 Polsis - Relies on using defensive, reactionary, and attrition-based strategies (Repair, Ranged, Morale) (Weak to Doman as they can outshoot with ranged)
 
-
 More realisitic take...
-Asian-Pacific Trade Association - APTA - Aggro?
-Eurasian Federated States - EFS - Midrange?
-United African Resistance - URA - Control?
-Continental Republic of the Americas - CRA - Combo? 
+Asian-Pacific Trade Association - APTA
+Eurasian Federated States - EFS
+United Resistance of Africa - URA
+Continental Republic of the Americas
 
+Compromised Names:
+Trade Association (Aggro)
+Continental Republic (Control)
+United Resistance (Combo)
+Federated States (Midrange)
 
+Key words - 
+Ranged X: This unit can deal damage equal to its strength to any unit within X tiles of it.  This unit deals no damaged when attacked unless otherwise specified.
+Infilitrate X:  This unit can deploy an additional X spaces from the city it was produced in.
+Scavenge X: This unit adds X strength, up to its original starting strength after every battle it participates in.
+AP X: This unit adds X to its damage during each battle it participates in.
+Armored X: This units substracts X from each source of damage during each battle it participates in
+Mechanized X: This unit recieves X additional activations
+Camo: This unit comes into play face down.  It can't be attacked until its revealed.  A unit is revealed when it attacks another unit, uses an ability, or an opponent uses an activation to reveal it.
 
 
 Ways to keep things from snowballing:
 -Extra card draw for destroyed cities?
 -Morale tokens for destroyed cities?
 -Grant extra production to another city?
+
