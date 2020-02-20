@@ -17,13 +17,13 @@ United Resistance (Combo)
 Federated States (Midrange)
 
 Key words - 
-Ranged X: This unit can deal damage equal to its strength to any unit within X tiles of it.  This unit deals no damaged when attacked unless otherwise specified.
+Ranged X: This unit can deal DMG equal to its STR to any unit within X tiles of it.  This unit deals no DMG when attacked unless otherwise specified.
 Infilitrate X:  This unit can deploy an additional X spaces from the city it was produced in.
-Scavenge X: This unit adds X strength, up to its original starting strength after every battle it participates in.
-AP X: This unit adds X to its damage during each battle it participates in.
-Armored X: This units substracts X from each source of damage during each battle it participates in
-Mechanized X: This unit recieves X additional activations
+AP X: This unit adds X to its DMG during each battle it participates in.
+Armored X: This units subtracts X from each source of DMG.
+Mechanized X: This unit recieves X additional ACT
 Camo: This unit comes into play face down.  It can't be attacked until its revealed.  A unit is revealed when it attacks another unit, uses an ability, or an opponent uses an activation to reveal it.
+Fortify X: This unit can use its ACT to restore X STR, up to its STR.
 
 All Vehicles have Mechanized 1 as default.
 
