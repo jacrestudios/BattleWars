@@ -4,3 +4,17 @@ CR Basic Deck - This deck seeks to hold out against its opponents until it can b
 UR Basic Deck - This deck wants to sacrifice its units to destory higher value enemies and attack cities off-guard while they are undefended
 FS Basic Deck - This deck plays better than average units and keeps them strong through tactics, strategies, and support units
 TA Basic Deck - This deck rushes to overwhelm its opponents early on with cheap infantry until it can begin to pump out strong vehicles
+
+PR	STR
+0	1
+1	2
+2	3
+3	4
+4	5
+5	7
+6	9
+7	11
+8	14
+9	17
+10	20
+
