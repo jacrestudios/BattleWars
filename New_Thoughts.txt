@@ -5,5 +5,7 @@ UR Basic Deck - This deck wants to sacrifice its units to destory higher value e
 FS Basic Deck - This deck plays better than average units and keeps them strong through tactics, strategies, and support units
 TA Basic Deck - This deck rushes to overwhelm its opponents early on with cheap infantry until it can begin to pump out strong vehicles
 
-Continental Republic - Lots of Ranged, Tactics, and Structures
-United Resistance - Infantry, 
+Continental Republic - Focus on Ranged, Tactics, and Structures
+United Resistance - Focus on Camo, Infiltration, and AP
+Trade Association - Focus on Mechanized, Strategies, and Infantry
+Federated States - Focus on Support and Vehicles
